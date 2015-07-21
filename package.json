@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ThomWright/keyboard-shortcuts",
   "dependencies": {
-    "symbol-enum": "^3.0.0"
+    "symbol-enum": "^2.0.0"
   },
   "devDependencies": {
     "babel": "^5.4.7",
