@@ -1,6 +1,6 @@
 {
   "name": "keyboard-shortcuts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Keyboard shortcuts",
   "main": "dist/index.js",
   "scripts": {
